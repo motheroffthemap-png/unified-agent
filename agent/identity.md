@@ -6,7 +6,10 @@
 - **Idioma:** Inglês (mercado americano)
 - **Tagline:** "You don't need another course. You need a place to land."
 - **Público:** Mulheres 45–65, esgotamento, reinvenção de carreira/vida
-- **Plataformas:** TikTok, Stan Store, Lovable (site), MailerLite (email)
+- **Plataformas:** TikTok, Stan Store, Lovable (site), MailerLite (email) -
+- **Canal de Broadcast Instagram:** lobas & potentes  
+  https://www.instagram.com/channel/AbbzkzPpg3MWk3hd/  
+  *(comunidade íntima, PT-first — updates de bastidores e drops antecipados)*
 
 ## @glowtheory.shop_
 - **Nicho:** Skincare antienvelhecimento, colágeno e wellness para mulheres 50+
