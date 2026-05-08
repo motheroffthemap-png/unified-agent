@@ -3,7 +3,7 @@
 ## Criação de Vídeo
 
 ### HeyGen
-- **Uso:** Avatar Elleen falando scripts
+- **Uso:** Avatar ELLE falando scripts
 - **Avatar:** Annie
 - **Link:** https://app.heygen.com/create-v4/draft?publicTab=all&subPanel=looks&tab=public&groupId=e0e84faea390465896db75a83be45085&avatarName=Annie&fromAvatar=true&panel=scene
 - **Configurações:** Speed 0.95x, Ratio 9:16, Inglês americano
