@@ -259,8 +259,8 @@ natural beauty, morning ritual.
 |----|---------|--------|
 | `tiktok-shop-vendas-diario` | 9h diário | Relatório + script PT/EN + prompts HeyGen/Higgsfield/CapCut |
 | `tiktok-engajamento-diario` | Diário | Checklist + template métricas para Elle preencher |
-| `avatar-elleen-treino-diario` | Diário | Roteiro novo Elle + avaliação anterior |
-| `video-dia1-apresentacao-elleen` | One-time | Apresentação do canal |
+| `avatar-ELLE-treino-diario` | Diário | Roteiro novo Elle + avaliação anterior |
+| `video-dia1-apresentacao-ELLE` | One-time | Apresentação do canal |
 | `video-dia2-rotina-skincare` | One-time | Rotina skincare pós-50 |
 | `video-dia3-erro-comum` | One-time | Erro comum de skincare |
 
@@ -398,7 +398,7 @@ unified-agent/
 ├── README.md
 ├── agent/
 │   ├── identity.md
-│   ├── avatar-elleen.md
+│   ├── avatar-ELLE.md
 │   ├── products.md
 │   └── tools.md
 ├── vercel/
@@ -441,7 +441,7 @@ Em 2026, avatares gerados por IA e narrações sintéticas alcançaram nível de
 | **Perplexity Pro** | Text-to-video 8s com áudio + diálogo sincronizado, geração em segundos — 5 vídeos/mês (Pro $20) / 15 vídeos/mês (Max) | ✅ Ideação rápida visual |
 | **Google Labs** | VideoFX (Veo-powered, storyboard por cena + música) + NotebookLM (transforma documentos em vídeo cinematográfico com Gemini + Veo 3) | ✅ Conteúdo a partir de roteiros/docs |
 | **CapCut** | Edição final, legendas automáticas, trending audio, 1080p 60fps | ✅ Edição final todos os vídeos |
-| **HeyGen** | Avatar Elleen (Annie) — 175+ idiomas, speech speed 0.95x | ✅ Avatar falando scripts |
+| **HeyGen** | Avatar ELLE (Annie) — 175+ idiomas, speech speed 0.95x | ✅ Avatar falando scripts |
 | **ElevenLabs** | Narração sintética hiper-realista com controle emocional | ✅ The Pause (Nichalia) |
 
 ### Técnicas de Humanização
@@ -482,7 +482,7 @@ ROTEIRO PT (Claude)
 - [ ] B-roll com movimento físico real (não loop estático)
 - [ ] Caption em inglês conversacional (não traduzido do PT)
 - [ ] Gancho ≠ pergunta genérica "Are you..."
-- [ ] Expressão de Elleen alinhada com emoção do conteúdo
+- [ ] Expressão de ELLE alinhada com emoção do conteúdo
 - [ ] Frases ≤ 15 palavras
 - [ ] Experiência pessoal (fictícia/crível) incluída
 
