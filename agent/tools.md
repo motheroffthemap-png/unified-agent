@@ -9,22 +9,28 @@
 - **Configurações:** Speed 0.95x, Ratio 9:16, Inglês americano
 
 ### Higgsfield (higgsfield.ai)
-- **Uso:** B-roll de lifestyle AI, vídeos de cenas de ambiente
-- **Modelo:** Seedance 2.0
+- **Uso:** B-roll lifestyle cinematográfico + talking-head humanizado
+- **Modelos:** Seedance 2.0 + Google Veo 3 (via UGC Builder)
 - **Formato:** 9:16 vertical, loopable
-- **Recurso:** Talking Avatar para vídeos com personagem falante
+- **Destaque 2026:** UGC Builder — talking-head hiper-realistas com camera shake natural, variação de luz ambiente, imperfeições propositais (menos uncanny valley)
+- **Humanização:** Camera presets estilo Hollywood (dolly, crane), expressões faciais e gestos controláveis
+- **Quando usar:** B-roll lifestyle Elle, rotinas skincare, cenas emocionais, apresentações de produto
 
-### Runway Gen-4 *(próximo upgrade)*
-- **Uso:** B-roll avançado com física realista
-- **Destaque:** Motion Brush 2.0 — pinta área da imagem + define trajetória com coordenadas 3D
-- **Público-alvo:** Criadores avançados, coloristas, produtoras
-- **Quando usar:** Quando Higgsfield não atingir realismo físico necessário (água, tecido, movimento complexo)
+### Grok Imagine (xAI / x.ai)
+- **Uso:** Geração rápida de vídeos de cenas com áudio sincronizado
+- **Versão:** Grok Imagine 1.0 (fevereiro 2026) + atualizações até março 2026
+- **Capacidades:** Text-to-video e image-to-video, até 10s 720p por clip
+- **Destaque:** Áudio sincronizado automático (sons ambiente, passos, música) — único na categoria
+- **"Extend from Frame":** Encadear clips usando último frame como início do próximo (até 15s por sequência)
+- **Video Stories:** Criar narrativas em sequência (lançado março 2026)
+- **Velocidade:** <20 segundos por geração — o mais rápido do mercado
+- **Quando usar:** Cenas rápidas, lifestyle com som ambiente, stories do dia a dia Elle
 
-### Sora Pro *(premium)*
-- **Uso:** Geração de vídeos ultra-realistas a partir de texto
-- **Destaque:** World Physics Engine — simula física complexa (líquidos, tecidos) com ~100% de precisão
-- **Benchmark 2026:** Padrão de referência para alta fidelidade
-- **Quando usar:** Cenas de produto, lifestyle premium, b-roll aspicional
+### Blackbox AI (blackbox-ai.io)
+- **Uso:** Transformar imagens em vídeos cinematográficos; voiceover humanizado
+- **Capacidades:** Imagem → vídeo cinemático, drone footage, hyperlapse, voiceover multi-idioma/sotaque
+- **Destaque:** TTS avançado que gera voiceovers soando humanos em múltiplos idiomas
+- **Quando usar:** Vídeos de produto (Dr. Melaxin), lifestyle premium, hyperlapse para @glowtheory.shop_, conteúdo com narração EN
 
 ### CapCut
 - **Uso:** Edição final dos vídeos

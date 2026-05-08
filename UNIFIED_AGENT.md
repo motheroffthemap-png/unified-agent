@@ -181,10 +181,10 @@ natural beauty, morning ritual.
 ### Criação de Conteúdo / Vídeo
 | Ferramenta | Uso | Config Salva |
 |------------|-----|-------------|
-| **HeyGen** | Avatar Elle | Annie, 9:16, 0.95x — 175+ idiomas 2026 |
-| **Higgsfield** | B-roll AI lifestyle | Seedance 2.0, 9:16, loopable |
-| **Runway Gen-4** | B-roll avançado + Motion Brush 2.0 | Próximo upgrade |
-| **Sora Pro** | Cenas ultra-realistas (World Physics Engine) | Premium |
+| **HeyGen** | Avatar Elle falando scripts | Annie, 9:16, 0.95x |
+| **Higgsfield** | B-roll lifestyle + UGC Builder humanizado | Seedance 2.0 + Veo 3, 9:16 loopable |
+| **Grok Imagine** | Cenas rápidas com áudio sincronizado | Text-to-video/image-to-video, <20s |
+| **Blackbox AI** | Imagem → vídeo cinemático, voiceover EN | Drone, hyperlapse, multi-idioma |
 | **CapCut** | Edição final | 1080p, 60fps, legendas, áudio 20% |
 | **ElevenLabs** | Voz The Pause | Nichalia, 0.82, 78% estab., 30% exag. |
 
@@ -427,15 +427,15 @@ unified-agent/
 
 Em 2026, avatares gerados por IA e narrações sintéticas alcançaram nível de realismo **indistinguível de apresentadores humanos** em muitos contextos. A chave é combinar as ferramentas certas com roteiro, direção e pipeline corretos.
 
-### Ferramentas de Avatar e Vídeo Humanizado 2026
+### Ferramentas de Humanização de Vídeo — Stack Atual Elle
 
 | Ferramenta | Destaque 2026 | Uso para Elle |
 |------------|--------------|---------------|
-| **HeyGen** | 175+ idiomas, clone de avatar instantâneo, from $29/mês — **melhor avatar IA 2026** | ✅ Avatar Elleen (Annie) |
-| **Higgsfield** | Seedance 2.0, B-roll lifestyle cinematográfico, Talking Avatar | ✅ B-roll atual Elle |
-| **Runway Gen-4** | Motion Brush 2.0 — define trajetória com coordenadas 3D, ferramenta colorista pro | B-roll avançado (próximo passo) |
-| **Sora Pro** | World Physics Engine — simula líquidos, tecidos e física real com ~100% precisão | Cenas ultra-realistas |
-| **Synthesia** | 230+ avatares com PT-BR nativo, treinamento corporativo | Alternativa HeyGen |
+| **Higgsfield** | UGC Builder (Veo 3 + Seedance 2.0) — talking-head hiper-realistas com camera shake, imperfeições naturais, expressividade humana | ✅ B-roll + Avatar Elle |
+| **Grok Imagine** | xAI — vídeos 10s 720p, audio sincronizado automático (sons ambientes + música), "Extend from Frame" até 15s, geração em <20s | ✅ Geração rápida de cenas |
+| **Blackbox AI** | Transforma imagens em vídeos cinematográficos, voiceover humano multi-idioma, drone footage, hyperlapse | ✅ Vídeos de produto/lifestyle |
+| **CapCut** | Edição final profissional, legendas automáticas, trending audio, exportação 1080p 60fps | ✅ Edição final todos os vídeos |
+| **HeyGen** | Avatar Elleen (Annie) — 175+ idiomas, speech speed 0.95x | ✅ Avatar falando scripts |
 | **ElevenLabs** | Narração sintética hiper-realista com controle emocional | ✅ The Pause (Nichalia) |
 
 ### Técnicas de Humanização
@@ -452,9 +452,10 @@ Em 2026, avatares gerados por IA e narrações sintéticas alcançaram nível de
 - NUNCA traduzir PT literalmente — reescrever em EN conversacional
 - Evitar ganchos genéricos como "Are you..." — preferir afirmação + pausa
 
-#### 3. B-roll Responsivo (Runway Gen-4 / Higgsfield)
-- **Motion Brush 2.0 (Runway):** pintar área exata que deve se mover + coordenadas 3D
-- **Seedance 2.0 (Higgsfield):** loopable, 9:16, mood cinematográfico ✅
+#### 3. B-roll Humanizado (Higgsfield + Grok + Blackbox)
+- **Higgsfield UGC Builder:** camera shake, luz ambiente natural, imperfeições propositais (dentes levemente irregulares, poros visíveis) = menos uncanny valley
+- **Grok Imagine:** gera cenas + áudio sincronizado automático em <20s — ideal para cenas rápidas com som ambiente
+- **Blackbox AI:** imagem → vídeo cinematográfico; ideal para produto (Dr. Melaxin), lifestyle, hyperlapse
 - Transições avatar → B-roll: máx. 0.3s de corte suave no CapCut
 - Intercalar avatar falando com B-roll a cada 8–12s = maior retenção
 
@@ -464,7 +465,7 @@ ROTEIRO PT (Claude)
    → REVISÃO (Elle)
    → EN humanizado (Claude — nunca tradução literal)
    → HEYGEN (Annie, 9:16, 0.95x + direção de expressão por momento)
-   → HIGGSFIELD/RUNWAY (B-roll cinematográfico com movimento)
+   → HIGGSFIELD / GROK / BLACKBOX (B-roll cinematográfico com som e movimento)
    → CAPCUT (legendas + música trending 20% + 1080p 60fps)
    → PUBLICAÇÃO (horários BRT otimizados por tema)
 ```
