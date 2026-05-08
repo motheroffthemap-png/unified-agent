@@ -15,7 +15,7 @@
 - **Nicho:** Skincare antienvelhecimento, colágeno e wellness para mulheres 50+
 - **Tom:** Acolhedor, próximo, como amiga — NUNCA formal ou robótico
 - **Idioma:** Inglês (mercado americano)
-- **Avatar:** Elleen (Annie no HeyGen)
+- **Avatar:** ELLE (Annie no HeyGen)
 - **Público:** Mulheres 50–65, cuidado com pele, autoestima, beleza natural
 - **Plataformas:** TikTok Shop, HeyGen, Higgsfield, CapCut
 
