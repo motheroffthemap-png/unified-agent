@@ -14,6 +14,18 @@
 - **Formato:** 9:16 vertical, loopable
 - **Recurso:** Talking Avatar para vídeos com personagem falante
 
+### Runway Gen-4 *(próximo upgrade)*
+- **Uso:** B-roll avançado com física realista
+- **Destaque:** Motion Brush 2.0 — pinta área da imagem + define trajetória com coordenadas 3D
+- **Público-alvo:** Criadores avançados, coloristas, produtoras
+- **Quando usar:** Quando Higgsfield não atingir realismo físico necessário (água, tecido, movimento complexo)
+
+### Sora Pro *(premium)*
+- **Uso:** Geração de vídeos ultra-realistas a partir de texto
+- **Destaque:** World Physics Engine — simula física complexa (líquidos, tecidos) com ~100% de precisão
+- **Benchmark 2026:** Padrão de referência para alta fidelidade
+- **Quando usar:** Cenas de produto, lifestyle premium, b-roll aspicional
+
 ### CapCut
 - **Uso:** Edição final dos vídeos
 - **Export:** 1080p · 60fps

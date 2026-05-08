@@ -64,4 +64,5 @@ unified-agent/
 
 ---
 
-*Última atualização: 2026-05-06 | Gerado pelo Claude Cowork*
+*Última atualização: 2026-05-07 | Gerado pelo Claude Cowork*
+*Nova seção: Humanização de Vídeos IA 2026 (ferramentas, pipeline, checklist) — ver UNIFIED_AGENT.md §12*
