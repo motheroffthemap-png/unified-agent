@@ -6,8 +6,8 @@
 |----|---------|-----------|
 | `tiktok-shop-vendas-diario` | 9h diário | Relatório + script PT/EN + prompts HeyGen/Higgsfield/CapCut |
 | `tiktok-engajamento-diario` | Diário | Checklist engajamento + template métricas |
-| `avatar-elleen-treino-diario` | Diário | Roteiro novo Elleen + avaliação do anterior |
-| `video-dia1-apresentacao-elleen` | One-time | Vídeo apresentação do canal |
+| `avatar-ELLE-treino-diario` | Diário | Roteiro novo ELLE + avaliação do anterior |
+| `video-dia1-apresentacao-ELLE` | One-time | Vídeo apresentação do canal |
 | `video-dia2-rotina-skincare` | One-time | Rotina de skincare pós-50 |
 | `video-dia3-erro-comum` | One-time | Erro comum de skincare |
 
@@ -57,7 +57,7 @@ Em vez de tentar acessar TikTok automaticamente:
 
 ---
 
-## avatar-elleen-treino-diario (Diário)
+## avatar-ELLE-treino-diario (Diário)
 
 ### Output esperado
 1. Roteiro novo (40–65 segundos) com:
