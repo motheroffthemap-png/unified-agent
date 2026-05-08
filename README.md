@@ -10,7 +10,7 @@
 > > | Repositório | Área |
 > > |-------------|------|
 > > | **[unified-agent](https://github.com/motheroffthemap-png/unified-agent)** | 🧠 Hub Central — agente mestre |
-> > | **[motm-brand](https://github.com/motheroffthemap-png/motm-brand)** | 🎨 Marca, identidade, avatar Elleen |
+> > | **[motm-brand](https://github.com/motheroffthemap-png/motm-brand)** | 🎨 Marca, identidade, avatar ELLE |
 > > | **[motm-tiktok](https://github.com/motheroffthemap-png/motm-tiktok)** | 📱 TikTok @glowtheory — scripts, vídeos |
 > >
 > > > Outros repositórios são privados e de acesso restrito.
@@ -26,7 +26,7 @@
 > > > ├── UNIFIED_AGENT.md   ← versão extendida
 > > > ├── agent/
 > > > │   ├── identidade.md
-> > > │   ├── avatar-elleen.md
+> > > │   ├── avatar-ELLE.md
 > > > │   ├── produtos.md
 > > > │   └── ferramentas.md
 > > > ├── automation/
@@ -47,7 +47,7 @@
 > > >       5. ## Integrações
 > > >      
 > > >       6. - Claude API: claude-sonnet-4-6
-> > > - HeyGen: Avatar Elleen (Annie)
+> > > - HeyGen: Avatar ELLE (Annie)
 > > > - - Vercel: Deploy automático via GitHub Actions
 > > >   - - Stan Store: https://stan.store/motheroffthemap
 > > >    
