@@ -1,68 +1,67 @@
-# unified-agent — Elle / @motheroffthemap
+# unified-agent — Hub Central
 
-> Agente unificado com todo o conhecimento de Claude, Manus, Vercel e GitHub.
-> Usuária: Elle · motheroffthemap@gmail.com
-
----
-
-## O que é este repositório
-
-Este repositório contém todo o conhecimento, prompts, configurações e estratégias compiladas de todas as conversas Claude + (em breve) Manus para operar os negócios digitais da Elle.
-
-## Estrutura
-
-```
-unified-agent/
-├── README.md                  ← este arquivo
-├── MASTER_AGENT.md            ← documento mestre completo (START HERE)
-├── agent/
-│   ├── identity.md            ← marcas, personas, audiência
-│   ├── avatar-elleen.md       ← configurações completas da Elleen
-│   ├── products.md            ← funil Stan Store + copy
-│   ├── content-strategy.md    ← formatos, temas, horários
-│   └── tools.md               ← ferramentas + configurações
-├── prompts/
-│   ├── heygen-templates.md    ← todos os prompts HeyGen
-│   ├── higgsfield-templates.md ← todos os prompts Higgsfield
-│   ├── capcut-instructions.md ← instruções de edição
-│   └── elevenlabs-settings.md ← configurações de voz
-├── scripts/
-│   ├── daily-report-template.md
-│   ├── engagement-checklist.md
-│   └── video-scripts/
-│       ├── day1-presentation.md
-│       ├── day2-skincare-routine.md
-│       ├── day3-common-mistake.md
-│       └── the-pause-meditations.md
-├── automation/
-│   ├── scheduled-tasks.md     ← todas as tarefas agendadas
-│   └── make-flows.md          ← fluxos Make.com planejados
-└── manus/                     ← integração com agente Manus (em breve)
-```
-
-## Marcas
-
-| Marca | Nicho | Plataforma |
-|-------|-------|------------|
-| @motheroffthemap | Mindset / reinvenção 45+ | TikTok, Stan Store |
-| @glowtheory.shop_ | Skincare / beleza 50+ | TikTok Shop |
-
-## Quick Start
-
-1. Leia o `MASTER_AGENT.md` para visão completa
-2. Configure tarefas agendadas conforme `automation/scheduled-tasks.md`
-3. Use prompts de `prompts/` para produzir conteúdo
-4. Para integração com Manus: adicionar arquivos na pasta `manus/`
-
-## Integrações
-
-- **Claude API:** claude-sonnet-4-6
-- **Vercel:** Deploy automático via GitHub Actions
-- **HeyGen:** Avatar Elleen (Annie)
-- **TikTok Shop:** @glowtheory.shop_
-- **Stan Store:** Funil $0–$297
-
----
-
-*Última atualização: 2026-05-07 | Gerado pelo Claude Cowork*
-*Nova seção: Humanização de Vídeos IA 2026 (ferramentas, pipeline, checklist) — ver UNIFIED_AGENT.md §12*
+> Agente unificado Elle — Claude + HeyGen + Vercel + GitHub
+> > Usuario: Elle · @motheroffthemap · motheroffthemap@gmail.com
+> >
+> > ---
+> >
+> > ## Ecossistema de Repositórios
+> >
+> > Este é o **hub central**. Cada área tem seu próprio repositório especializado:
+> >
+> > | Repositório | Área | Conteúdo |
+> > |-------------|------|----------|
+> > | **[unified-agent](https://github.com/motheroffthemap-png/unified-agent)** | 🧠 Hub Central | MASTER_AGENT.md — agente mestre completo |
+> > | **[motm-brand](https://github.com/motheroffthemap-png/motm-brand)** | 🎨 Marca | Identidade, avatar Elleen, produtos Stan Store |
+> > | **[motm-tiktok](https://github.com/motheroffthemap-png/motm-tiktok)** | 📱 TikTok | Scripts, prompts HeyGen/Higgsfield, estratégia |
+> > | **[motm-business](https://github.com/motheroffthemap-png/motm-business)** | 💼 Negócios | Plano de negócios, funil $0–$297, automação |
+> > | **[motm-immigration](https://github.com/motheroffthemap-png/motm-immigration)** | 🛂 Imigração | EB-2 NIW — representado via avatar Elleen |
+> > | **[mae-fora-do-mapa-ebook](https://github.com/motheroffthemap-png/mae-fora-do-mapa-ebook)** | 📚 Ebook/Site | Site Vercel, conteúdo, arquivos de marca |
+> >
+> > ---
+> >
+> > ## Estrutura do unified-agent
+> >
+> > ```
+> > unified-agent/
+> > ├── README.md          ← este arquivo — mapa do ecossistema
+> > ├── MASTER_AGENT.md    ← documento mestre completo (START HERE)
+> > ├── UNIFIED_AGENT.md   ← versão extendida
+> > ├── agent/
+> > │   ├── identidade.md      ← marcas, personas, audiência
+> > │   ├── avatar-elleen.md   ← configurações HeyGen Annie
+> > │   ├── produtos.md        ← funil Stan Store + copy
+> > │   └── ferramentas.md     ← todas as ferramentas
+> > ├── automation/            ← Make.com, tarefas agendadas
+> > ├── manus/                 ← integração Manus (em breve)
+> > └── vercel/                ← configurações Vercel
+> > ```
+> >
+> > ---
+> >
+> > ## Regra de Privacidade — Avatar
+> >
+> > > ⚠️ Toda informação pessoal real (imigração, documentos, dados) é apresentada publicamente via **Avatar Elleen** (HeyGen — Annie). Nunca expor documentos reais em câmera.
+> > >
+> > > ---
+> > >
+> > > ## Início Rápido
+> > >
+> > > 1. Leia `MASTER_AGENT.md` para contexto completo
+> > > 2. 2. Para TikTok → vá para `motm-tiktok`
+> > >    3. 3. Para marca → vá para `motm-brand`
+> > >       4. 4. Para negócios → vá para `motm-business`
+> > >          5. 5. Para imigração → vá para `motm-immigration`
+> > >            
+> > >             6. ---
+> > >            
+> > >             7. ## API e Integrações
+> > >            
+> > >             8. - Claude API: claude-sonnet-4-6
+> > > - HeyGen: Avatar Elleen (Annie)
+> > > - - Vercel: Deploy automático via GitHub Actions
+> > >   - - Stan Store: https://stan.store/motheroffthemap
+> > >     - - Make.com: Automação de fluxos
+> > >      
+> > >       - ---
+> > >       *Atualizado: 2026-05-07 | Gerado por Claude Cowork*
