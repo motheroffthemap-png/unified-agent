@@ -8,7 +8,7 @@
 ## ÍNDICE
 
 1. [Identidade e Marcas](#1-identidade-e-marcas)
-2. [Avatar Elleen](#2-avatar-elleen)
+2. [Avatar ELLE](#2-avatar-ELLE)
 3. [Produtos — Stan Store](#3-produtos--stan-store)
 4. [Canal TikTok @glowtheory.shop_](#4-canal-tiktok-glowtheoryshop_)
 5. [Ferramentas e Plataformas](#5-ferramentas-e-plataformas)
@@ -38,15 +38,15 @@
 - **Nicho:** Skincare antienvelhecimento, colágeno, wellness para mulheres 50+
 - **Tom:** Acolhedor, próximo, como amiga — NUNCA formal ou robótico
 - **Idioma:** Inglês (mercado americano)
-- **Avatar:** Elleen (Annie no HeyGen)
+- **Avatar:** ELLE (Annie no HeyGen)
 - **Público:** Mulheres 50–65 anos, cuidado com a pele, autoestima, beleza natural
 
 ---
 
-## 2. AVATAR ELLEEN
+## 2. AVATAR ELLE
 
 ### Identidade
-- **Nome artístico:** Elleen
+- **Nome artístico:** ELLE
 - **Plataforma de criação:** HeyGen — Annie avatar
 - **Link direto HeyGen:**
   ```
@@ -120,7 +120,7 @@
 
 ### Identidade do Canal
 - **Nicho:** Skincare, beleza e wellness para mulheres 50+
-- **Avatar:** Elleen (todas as publicações)
+- **Avatar:** ELLE (todas as publicações)
 - **Público-alvo:** Mulheres 50–65, EUA
 - **Benchmark de performance:**
   - Taxa de retenção: > 40%
@@ -159,7 +159,7 @@
 ### Criação de Vídeo
 | Ferramenta | Uso | Configurações Salvas |
 |------------|-----|---------------------|
-| **HeyGen** | Avatar Elleen falando scripts | Speed: 0.95x, Avatar: Annie, Ratio: 9:16 |
+| **HeyGen** | Avatar ELLE falando scripts | Speed: 0.95x, Avatar: Annie, Ratio: 9:16 |
 | **Higgsfield** | Vídeos de lifestyle B-roll | Seedance 2.0, 9:16, loopable |
 | **CapCut** | Edição final | 1080p · 60fps, legendas, música volume 20% |
 | **ElevenLabs** | Narração voz humana (The Pause) | Voz: Nichalia, Speed: 0.82, Estabilidade: 78%, Exagero: 30% |
@@ -193,8 +193,8 @@
 |---|---|---|
 | `tiktok-shop-vendas-diario` | 9h diário | Relatório diário + script PT/EN + prompts HeyGen/Higgsfield/CapCut |
 | `tiktok-engajamento-diario` | Diário | Checklist de engajamento + template de métricas |
-| `avatar-elleen-treino-diario` | Diário | Treino da Elleen: roteiro novo + avaliação do anterior |
-| `video-dia1-apresentacao-elleen` | One-time | Vídeo de apresentação do canal |
+| `avatar-ELLE-treino-diario` | Diário | Treino da ELLE: roteiro novo + avaliação do anterior |
+| `video-dia1-apresentacao-ELLE` | One-time | Vídeo de apresentação do canal |
 | `video-dia2-rotina-skincare` | One-time | Rotina de skincare pós-50 |
 | `video-dia3-erro-comum` | One-time | Erro comum de skincare |
 
@@ -234,7 +234,7 @@ Novo fluxo (atualizado): Em vez de acessar TikTok automaticamente, gera:
 
 **Prompt HeyGen:**
 ```
-Avatar: Annie (Elleen)
+Avatar: Annie (ELLE)
 Ratio: 9:16 vertical
 Speech speed: 0.95x
 Background: [fundo adequado ao tema]
@@ -246,7 +246,7 @@ Emotion/Direction: [tom, pausas, ênfase, olhar]
 ```
 [CHARACTER] Brazilian woman, early 50s, warm and confident...
 [SCENE] Vertical format 9:16. [fundo e iluminação]
-[ACTION] [movimentos, gestos, expressões]
+[ACTION] [movimentos, gestos, expressõhes]
 [STYLE] Warm tones, cinematic but personal. Mood: [emoção]
 ```
 
@@ -441,7 +441,7 @@ C:\Users\bruno\OneDrive\Documents\Obsidian Vault\MotherOffTheMap\
 | THE_PAUSE_MEDITACOES_HIGGSFIELD.md | Scripts + prompts 4 meditações | Desktop\MotheroffheMaP.VY |
 | higgsfield-prompts-engajamento-glowtheory.md | 5 prompts de vídeo lifestyle | Outputs da sessão |
 | relatorio-diario-glowtheory-AAAA-MM-DD.md | Relatório diário (gerado automaticamente) | Outputs da sessão |
-| elleen-treino-semana1-video1.md | Roteiro treino Elleen | Outputs da sessão |
+| ELLE-treino-semana1-video1.md | Roteiro treino ELLE | Outputs da sessão |
 
 ---
 
@@ -458,7 +458,7 @@ unified-agent/
 ├── MASTER_AGENT.md           ← este arquivo
 ├── agent/
 │   ├── identity.md           ← marcas, personas, audiência
-│   ├── avatar-elleen.md      ← configurações completas da Elleen
+│   ├── avatar-ELLE.md      ← configurações completas da ELLE
 │   ├── products.md           ← funil Stan Store + copy
 │   ├── content-strategy.md   ← formatos, temas, horários
 │   └── tools.md              ← todas as ferramentas + configurações
@@ -498,7 +498,7 @@ unified-agent/
 - Deploy automático no Vercel (landing pages, Silver Mastery)
 - Usar Claude API para geração de scripts e relatórios
 - Manter memória de contexto de todas as conversas anteriores
-- Gerar relatórios diários e roteiros para Elleen
+- Gerar relatórios diários e roteiros para ELLE
 - Gerenciar o funil de produtos e atualizações do Stan Store
 
 ---
