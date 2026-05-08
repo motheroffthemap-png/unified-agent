@@ -183,8 +183,11 @@ natural beauty, morning ritual.
 |------------|-----|-------------|
 | **HeyGen** | Avatar Elle falando scripts | Annie, 9:16, 0.95x |
 | **Higgsfield** | B-roll lifestyle + UGC Builder humanizado | Seedance 2.0 + Veo 3, 9:16 loopable |
-| **Grok Imagine** | Cenas rápidas com áudio sincronizado | Text-to-video/image-to-video, <20s |
+| **Grok Imagine** | Cenas rápidas com áudio sincronizado | Text/image-to-video, 10s, <20s |
 | **Blackbox AI** | Imagem → vídeo cinemático, voiceover EN | Drone, hyperlapse, multi-idioma |
+| **Gemini + Veo 3.1** | Vídeos até 4K com áudio nativo + 9:16 portrait | Video extension, Veo 3.1 Lite |
+| **Perplexity Pro** | Text-to-video 8s com áudio — ideação rápida | 5 vídeos/mês (Pro) / 15 (Max) |
+| **Google Labs** | VideoFX (storyboard+música) + NotebookLM (doc→vídeo) | Grátis com conta Google |
 | **CapCut** | Edição final | 1080p, 60fps, legendas, áudio 20% |
 | **ElevenLabs** | Voz The Pause | Nichalia, 0.82, 78% estab., 30% exag. |
 
@@ -427,14 +430,17 @@ unified-agent/
 
 Em 2026, avatares gerados por IA e narrações sintéticas alcançaram nível de realismo **indistinguível de apresentadores humanos** em muitos contextos. A chave é combinar as ferramentas certas com roteiro, direção e pipeline corretos.
 
-### Ferramentas de Humanização de Vídeo — Stack Atual Elle
+### Ferramentas de Humanização de Vídeo — Stack Completo Elle 2026
 
 | Ferramenta | Destaque 2026 | Uso para Elle |
 |------------|--------------|---------------|
-| **Higgsfield** | UGC Builder (Veo 3 + Seedance 2.0) — talking-head hiper-realistas com camera shake, imperfeições naturais, expressividade humana | ✅ B-roll + Avatar Elle |
-| **Grok Imagine** | xAI — vídeos 10s 720p, audio sincronizado automático (sons ambientes + música), "Extend from Frame" até 15s, geração em <20s | ✅ Geração rápida de cenas |
-| **Blackbox AI** | Transforma imagens em vídeos cinematográficos, voiceover humano multi-idioma, drone footage, hyperlapse | ✅ Vídeos de produto/lifestyle |
-| **CapCut** | Edição final profissional, legendas automáticas, trending audio, exportação 1080p 60fps | ✅ Edição final todos os vídeos |
+| **Higgsfield** | UGC Builder (Veo 3 + Seedance 2.0) — talking-head hiper-realistas, camera shake, imperfeições naturais, expressividade humana | ✅ B-roll + Avatar Elle |
+| **Grok Imagine** | xAI — vídeos 10s 720p, áudio sincronizado automático, "Extend from Frame" até 15s, geração em <20s | ✅ Geração rápida de cenas |
+| **Blackbox AI** | Imagem → vídeo cinematográfico, voiceover multi-idioma, drone footage, hyperlapse | ✅ Vídeos de produto/lifestyle |
+| **Gemini + Veo 3.1** | Google — 8s até 4K, 9:16 portrait nativo, áudio nativo sincronizado, video extension, Veo 3.1 Lite econômico | ✅ Cenas com áudio e imagem 4K |
+| **Perplexity Pro** | Text-to-video 8s com áudio + diálogo sincronizado, geração em segundos — 5 vídeos/mês (Pro $20) / 15 vídeos/mês (Max) | ✅ Ideação rápida visual |
+| **Google Labs** | VideoFX (Veo-powered, storyboard por cena + música) + NotebookLM (transforma documentos em vídeo cinematográfico com Gemini + Veo 3) | ✅ Conteúdo a partir de roteiros/docs |
+| **CapCut** | Edição final, legendas automáticas, trending audio, 1080p 60fps | ✅ Edição final todos os vídeos |
 | **HeyGen** | Avatar Elleen (Annie) — 175+ idiomas, speech speed 0.95x | ✅ Avatar falando scripts |
 | **ElevenLabs** | Narração sintética hiper-realista com controle emocional | ✅ The Pause (Nichalia) |
 

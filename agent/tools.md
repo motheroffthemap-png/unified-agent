@@ -32,6 +32,25 @@
 - **Destaque:** TTS avançado que gera voiceovers soando humanos em múltiplos idiomas
 - **Quando usar:** Vídeos de produto (Dr. Melaxin), lifestyle premium, hyperlapse para @glowtheory.shop_, conteúdo com narração EN
 
+### Gemini + Veo 3.1 (Google)
+- **Uso:** Geração de vídeos com áudio nativo e alta fidelidade visual
+- **Versão:** Veo 3.1 (+ Veo 3.1 Lite para uso econômico)
+- **Capacidades:** Text-to-video e image-to-video, até 4K, 9:16 portrait nativo ✅
+- **Destaque:** Áudio nativo sincronizado (diálogo, sons ambientes, efeitos), video extension, frame-specific generation
+- **Quando usar:** Cenas de produto premium, lifestyle de alta qualidade, vídeos com trilha sonora e narração integrados
+
+### Perplexity Pro (perplexity.ai)
+- **Uso:** Geração rápida de vídeos a partir de text prompts com áudio e diálogo sincronizado
+- **Plano:** Pro ($20/mês) — 5 vídeos/mês | Max — 15 vídeos/mês
+- **Capacidades:** Text-to-video 8s, áudio + diálogo sincronizado, geração em segundos, disponível no web/iOS/Android
+- **Quando usar:** Testes rápidos de concept visual, esboços de cenas antes de produção final, ideação de conteúdo
+
+### Google Labs — VideoFX + NotebookLM (labs.google)
+- **Ferramentas:** VideoFX (labs.google/fx/tools) e NotebookLM (notebooklm.google)
+- **VideoFX:** Veo-powered, text-to-video com modo Storyboard (cena por cena) + adição de música — grátis com conta Google
+- **NotebookLM Cinematic:** Transforma documentos/roteiros em vídeos cinematográficos com Gemini 3 + Veo 3 — ideal para transformar MASTER_AGENT.md em vídeos explicativos
+- **Quando usar:** VideoFX → protótipos de cenas com storyboard; NotebookLM → transformar roteiros e documentos em vídeos educativos ou de apresentação
+
 ### CapCut
 - **Uso:** Edição final dos vídeos
 - **Export:** 1080p · 60fps
