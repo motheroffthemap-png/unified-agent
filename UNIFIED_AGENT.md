@@ -76,8 +76,10 @@
 Avatar: Annie
 Ratio: 9:16 vertical
 Speech speed: 0.95x
+Voz: Christy  ← atualizado 2026-05-08
 Idioma: Inglês americano humanizado
 ```
+> Pipeline atualizado: Higgsfield UGC Builder (movimentos humanizados) → HeyGen Christy (voz) → CapCut (edição)
 
 ### Direção de Expressão
 | Momento | Direção |
