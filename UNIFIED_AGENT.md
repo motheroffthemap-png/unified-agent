@@ -180,41 +180,36 @@ natural beauty, morning ritual.
 
 ## 5. FERRAMENTAS
 
+> Stack ativo confirmado por Elle — 2026-05-10
+
 ### Criação de Conteúdo / Vídeo
 | Ferramenta | Uso | Config Salva |
 |------------|-----|-------------|
-| **HeyGen** | Avatar Elle falando scripts | Annie, 9:16, 0.95x |
 | **Higgsfield** | B-roll lifestyle + UGC Builder humanizado | Seedance 2.0 + Veo 3, 9:16 loopable |
-| **Grok Imagine** | Cenas rápidas com áudio sincronizado | Text/image-to-video, 10s, <20s |
-| **Blackbox AI** | Imagem → vídeo cinemático, voiceover EN | Drone, hyperlapse, multi-idioma |
-| **Gemini + Veo 3.1** | Vídeos até 4K com áudio nativo + 9:16 portrait | Video extension, Veo 3.1 Lite |
-| **Perplexity Pro** | Text-to-video 8s com áudio — ideação rápida | 5 vídeos/mês (Pro) / 15 (Max) |
-| **Google Labs** | VideoFX (storyboard+música) + NotebookLM (doc→vídeo) | Grátis com conta Google |
 | **CapCut** | Edição final | 1080p, 60fps, legendas, áudio 20% |
-| **ElevenLabs** | Voz The Pause | Nichalia, 0.82, 78% estab., 30% exag. |
+| **Flow** | Criação e edição de vídeo | Ativo |
 
-### Infraestrutura
+### Infraestrutura e Agentes
 | Ferramenta | Uso | Status |
 |------------|-----|--------|
-| **Vercel** | 17 deploys ativos | ✅ Conectado via Manus |
-| **GitHub** | Versionamento | ✅ Conector Manus ativo |
-| **Claude API** | claude-sonnet-4-6 | ✅ Cowork ativo |
-| **Make.com** | Automações | A configurar |
-| **Instagram** | Conteúdo | ✅ Conector Manus ativo |
+| **Claude** | Scripts, roteiros, copy, análise, arquivos | ✅ Cowork ativo |
+| **Manus** | Deploy Vercel, GitHub, Instagram, automações | ✅ 1.6 ativo |
+| **Vercel** | 17 deploys ativos | ✅ Conector Manus |
+| **GitHub** | Versionamento | ✅ Conector Manus |
+| **Instagram** | Publicação de conteúdo | ✅ Conector Manus |
 
-### Vendas / Email
+### Produto / Landing Pages
 | Ferramenta | Uso |
 |------------|-----|
+| **Lovable** | Landing pages (Silver Mastery e outros) |
 | **Stan Store** | Funil $0–$297 |
-| **MailerLite** | Email marketing |
-| **TikTok Seller Center** | TikTok Shop |
-| **Lovable** | Silver Mastery landing |
 
-### Agentes de IA
-| Agente | Versão | Capacidades |
-|--------|--------|-------------|
-| **Claude** (Cowork) | claude-sonnet-4-6 | Scripts, relatórios, análise, arquivos |
-| **Manus** | 1.6 (Meta) | Vercel deploy, GitHub, Instagram, Vercel live data |
+### Base de Conhecimento
+| Ferramenta | Uso |
+|------------|-----|
+| **Obsidian** | Vault local — notas, contexto, estratégia |
+
+> ⚠️ **Ferramentas NÃO utilizadas:** Make.com, HeyGen, ElevenLabs, Grok, Blackbox AI, Gemini, Perplexity, MailerLite, TikTok Seller Center — removidas do stack ativo.
 
 ---
 
@@ -438,19 +433,13 @@ unified-agent/
 
 Em 2026, avatares gerados por IA e narrações sintéticas alcançaram nível de realismo **indistinguível de apresentadores humanos** em muitos contextos. A chave é combinar as ferramentas certas com roteiro, direção e pipeline corretos.
 
-### Ferramentas de Humanização de Vídeo — Stack Completo Elle 2026
+### Ferramentas de Humanização de Vídeo — Stack Ativo Elle 2026
 
-| Ferramenta | Destaque 2026 | Uso para Elle |
-|------------|--------------|---------------|
-| **Higgsfield** | UGC Builder (Veo 3 + Seedance 2.0) — talking-head hiper-realistas, camera shake, imperfeições naturais, expressividade humana | ✅ B-roll + Avatar Elle |
-| **Grok Imagine** | xAI — vídeos 10s 720p, áudio sincronizado automático, "Extend from Frame" até 15s, geração em <20s | ✅ Geração rápida de cenas |
-| **Blackbox AI** | Imagem → vídeo cinematográfico, voiceover multi-idioma, drone footage, hyperlapse | ✅ Vídeos de produto/lifestyle |
-| **Gemini + Veo 3.1** | Google — 8s até 4K, 9:16 portrait nativo, áudio nativo sincronizado, video extension, Veo 3.1 Lite econômico | ✅ Cenas com áudio e imagem 4K |
-| **Perplexity Pro** | Text-to-video 8s com áudio + diálogo sincronizado, geração em segundos — 5 vídeos/mês (Pro $20) / 15 vídeos/mês (Max) | ✅ Ideação rápida visual |
-| **Google Labs** | VideoFX (Veo-powered, storyboard por cena + música) + NotebookLM (transforma documentos em vídeo cinematográfico com Gemini + Veo 3) | ✅ Conteúdo a partir de roteiros/docs |
+| Ferramenta | Destaque | Uso para Elle |
+|------------|----------|---------------|
+| **Higgsfield** | UGC Builder (Veo 3 + Seedance 2.0) — talking-head hiper-realistas, camera shake, imperfeções naturais | ✅ B-roll + UGC humanizado |
 | **CapCut** | Edição final, legendas automáticas, trending audio, 1080p 60fps | ✅ Edição final todos os vídeos |
-| **HeyGen** | Avatar ELLE (Annie) — 175+ idiomas, speech speed 0.95x | ✅ Avatar falando scripts |
-| **ElevenLabs** | Narração sintética hiper-realista com controle emocional | ✅ The Pause (Nichalia) |
+| **Flow** | Criação e edição de vídeo | ✅ Pipeline de vídeo ativo |
 
 ### Técnicas de Humanização
 
@@ -466,58 +455,58 @@ Em 2026, avatares gerados por IA e narrações sintéticas alcançaram nível de
 - NUNCA traduzir PT literalmente — reescrever em EN conversacional
 - Evitar ganchos genéricos como "Are you..." — preferir afirmação + pausa
 
-#### 3. B-roll Humanizado (Higgsfield + Grok + Blackbox)
-- **Higgsfield UGC Builder:** camera shake, luz ambiente natural, imperfeições propositais (dentes levemente irregulares, poros visíveis) = menos uncanny valley
-- **Grok Imagine:** gera cenas + áudio sincronizado automático em <20s — ideal para cenas rápidas com som ambiente
-- **Blackbox AI:** imagem → vídeo cinematográfico; ideal para produto (Dr. Melaxin), lifestyle, hyperlapse
-- Transições avatar → B-roll: máx. 0.3s de corte suave no CapCut
-- Intercalar avatar falando com B-roll a cada 8–12s = maior retenção
+#### 3. B-roll Humanizado (Higgsfield)
+- **Higgsfield UGC Builder:** camera shake, luz ambiente natural, imperfeções propositais (dentes levemente irregulares, poros visíveis) = menos uncanny valley
+- Transições B-roll: máx. 0.3s de corte suave no CapCut / Flow
+- Intercalar talking-head com B-roll a cada 8–12s = maior retenção
 
 #### 4. Pipeline Humanizado Completo Elle
 ```
-ROTEIRO PT (Claude) 
+ROTEIRO PT (Claude)
    → REVISÃO (Elle)
    → EN humanizado (Claude — nunca tradução literal)
-   → HEYGEN (Annie, 9:16, 0.95x + direção de expressão por momento)
-   → HIGGSFIELD / GROK / BLACKBOX (B-roll cinematográfico com som e movimento)
-   → CAPCUT (legendas + música trending 20% + 1080p 60fps)
-   → PUBLICAÇÃO (horários BRT otimizados por tema)
+   → HIGGSFIELD (B-roll + UGC humanizado, 9:16)
+   → CAPCUT / FLOW (legendas + música trending 20% + 1080p 60fps)
+   → PUBLICAÇÃO via Manus (Instagram)
 ```
 
 #### 5. Checklist de Humanização Antes de Publicar
-- [ ] Speech speed ≤ 0.95x (HeyGen)
-- [ ] Pelo menos 1 pausa intencional marcada no script
-- [ ] B-roll com movimento físico real (não loop estático)
+- [ ] B-roll com movimento físico real (não loop estático) — Higgsfield
+- [ ] Edição final em CapCut ou Flow (legendas + áudio 20%)
 - [ ] Caption em inglês conversacional (não traduzido do PT)
 - [ ] Gancho ≠ pergunta genérica "Are you..."
 - [ ] Expressão de ELLE alinhada com emoção do conteúdo
 - [ ] Frases ≤ 15 palavras
 - [ ] Experiência pessoal (fictícia/crível) incluída
+- [ ] Publicar via Manus (Instagram conector)
 
 ### Tendência Crítica 2026: Detecção vs Humanização
 > Em 2026, ferramentas de detecção de IA evoluíram mas as de humanização também. O diferencial real é **autenticidade de conteúdo** — stories reais, experiências críveis, emoção verdadeira. Um vídeo com avatar bem dirigido + história real supera qualquer vídeo "tecnicamente humano" com conteúdo genérico.
 
 ---
 
-## 13. AUTOMAÇÕES E MAKE
+## 13. AUTOMAÇÕES
 
-### Fluxo Ideal Unificado (Claude + Manus)
+### Fluxo Ativo (Claude + Manus)
 
 ```
-CLAUDE → gera script/relatório/copy
+CLAUDE → gera script/roteiro/copy
    ↓
 MANUS → publica via Instagram conector
 MANUS → deploy Vercel se necessário
 MANUS → commit no GitHub
    ↓
-ELLE → revisa, aprova, executa HeyGen + CapCut
+ELLE → revisa, aprova, executa Higgsfield + CapCut + Flow
 ```
 
-### Make.com — Fluxos Planejados
-1. **TikTok metrics → Claude** (diário às 9h) → relatório automático
-2. **MailerLite → Stan Store** (novo lead) → sequência de email automática
-3. **GitHub push → Vercel deploy** (já configurado via Manus)
-4. **New Stan Store purchase → MailerLite** → produto enviado automaticamente
+### Pipeline de Vídeo Ativo
+```
+ROTEIRO (Claude)
+   → REVISÃO (Elle)
+   → HIGGSFIELD (B-roll + UGC humanizado)
+   → CAPCUT / FLOW (edição final, legendas, áudio)
+   → PUBLICAÇÃO via Manus (Instagram)
+```
 
 ### Afiliação Dr. Melaxin
 | Métrica | Valor |
