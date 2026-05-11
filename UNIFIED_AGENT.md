@@ -10,13 +10,13 @@
 | Seção | Conteúdo |
 |-------|----------|
 | [1. Marcas e Identidade](#1-marcas-e-identidade) | Todas as marcas, personas, audiências |
-| [2. Avatar Elle](#2-avatar-elle) | Configurações completas HeyGen/Higgsfield |
+| [2. Avatar Elle](#2-avatar-elle) | Configurações completas Higgsfield/CapCut |
 | [3. Produtos e Funil](#3-produtos-e-funil) | Funil completo $0–$297 com copy |
 | [4. Projetos Vercel (17)](#4-projetos-vercel-17) | Mapeamento completo de todos os deploys |
-| [5. Ferramentas](#5-ferramentas) | Claude API, Vercel, GitHub, HeyGen, etc. |
+| [5. Ferramentas](#5-ferramentas) | Claude, Manus, Higgsfield, CapCut, Flow, Lovable, Obsidian |
 | [6. TikTok Strategy](#6-tiktok-strategy) | @glowtheory.shop_ — scripts, horários, temas |
 | [7. Tarefas Agendadas](#7-tarefas-agendadas) | Todas as automações configuradas |
-| [8. Prompts de Produção](#8-prompts-de-produção) | HeyGen, Higgsfield, CapCut, ElevenLabs |
+| [8. Prompts de Produção](#8-prompts-de-produção) | Higgsfield, CapCut, Flow |
 | [9. The Pause — Meditações](#9-the-pause--meditações) | Scripts completos + prompts visuais |
 | [10. Integrações Manus 1.6](#10-integrações-manus-16) | Conectores Vercel, GitHub, Instagram |
 | [11. GitHub Repos](#11-github-repos) | Repositórios conhecidos |
@@ -79,7 +79,7 @@ Speech speed: 0.95x
 Voz: Christy  ← atualizado 2026-05-08
 Idioma: Inglês americano humanizado
 ```
-> Pipeline atualizado: Higgsfield UGC Builder (movimentos humanizados) → HeyGen Christy (voz) → CapCut (edição)
+> Pipeline ativo: Higgsfield UGC Builder (movimentos humanizados) → CapCut / Flow (edição final)
 
 ### Direção de Expressão
 | Momento | Direção |
@@ -236,7 +236,6 @@ natural beauty, morning ritual.
 📝 Script EN: [conversacional americano]
 📌 Caption EN: [legenda + hashtags]
 
-🟣 HeyGen:    Avatar Elle · 9:16 · 0.95x · [fundo] · [roupa] · [direção]
 🟡 Higgsfield: [CHARACTER] · [SCENE] · [ACTION] · [STYLE]
 🔵 CapCut:    [legendas · música 20% · 1080p 60fps · B-roll AI]
 🎙️ Direção:   [momentos-chave com instrução de expressão]
@@ -335,12 +334,11 @@ CENA 4 — CTA (45-60s):   Confiante, cool — "Link's in my bio if you wanna gl
 ### Produto
 - **Preço:** $27 | **Vercel:** `hold-my-hand-pause` ✅
 - **Formato:** 4 meditações (7 dias)
-- **Voz:** ElevenLabs Nichalia (0.82, 78% estab., 30% exageração)
+- **Voz:** Voz gravada ou sintetizada via ferramenta ativa (ElevenLabs removido do stack)
 
 ### Prompts Higgsfield
 | Meditação | Prompt |
-|-----------|--------|corrija abaixo, voce misturou as informacoes, estas saaao da gabais decor
-
+|-----------|--------|
 | Dia 1 | `Slow cinematic close-up of a woman's hands resting open in her lap, morning light through linen curtain. Terracotta, beige. Loopable.` |
 | Dia 2–3 | `Morning light entering a quiet room through slightly opened curtain. Dust particles in light beam. Cream, amber. Loopable.` |
 | Dia 5–6 | `Single candle flame in quiet room. Soft warm light on wooden surfaces. Terracotta, amber. Steady flame. Loopable.` |
@@ -407,17 +405,15 @@ unified-agent/
 ├── vercel/
 │   └── projects-map.md       ← mapeamento dos 17 projetos
 ├── prompts/
-│   ├── heygen-templates.md
 │   ├── higgsfield-templates.md
 │   ├── capcut-instructions.md
-│   └── elevenlabs-settings.md
+│   └── flow-instructions.md
 ├── scripts/
 │   ├── daily-report-template.md
 │   ├── engagement-checklist.md
 │   └── video-scripts/
 ├── automation/
-│   ├── scheduled-tasks.md
-│   └── make-flows.md
+│   └── scheduled-tasks.md
 └── manus/
     ├── manus-agent-config.md  ← config do Manus 1.6
     └── connectors.md          ← todos os conectores
@@ -529,7 +525,6 @@ ROTEIRO (Claude)
 ### Curto prazo
 - [ ] Mapear todos os repos GitHub via Manus connector
 - [ ] Identificar e documentar `mydunapp` e `say-do-trust`
-- [ ] Configurar Make.com: TikTok metrics → Claude diário
 - [ ] Criar Silver Mastery ($147) no Stan Store
 
 ### Estrutural
