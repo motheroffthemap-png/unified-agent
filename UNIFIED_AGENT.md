@@ -255,6 +255,12 @@ natural beauty, morning ritual.
 
 ---
 
+
+### 🎬 Mother Off the Map - Reels Strategy
+- **Tone:** Intimate, conversational, emotionally true for American mothers. Emotion > Literality.
+- **Focus:** Invisible mental load, maternal guilt, identity beyond motherhood, presence without perfection.
+- **Format:** Hook (first 3 seconds) + Story/Insight + CTA. Keep it real, not polished.
+
 ## 7. TAREFAS AGENDADAS
 
 | ID | Horário | Função |

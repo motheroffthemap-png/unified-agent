@@ -34,7 +34,13 @@
 | Desenvolvimento | Suaviza, sorriso leve, tom de amizade |
 | CTA | Cumplicidade, pisca ou sorri para câmera |
 
-## Regras de Roteiro
+
+## Regras de Roteiro (Mother Off the Map - Reels)
+- **Tone:** Intimate, conversational, emotionally true for American mothers. Emotion > Literality.
+- **Focus:** Invisible mental load, maternal guilt, identity beyond motherhood, presence without perfection.
+- **Format:** Hook (first 3 seconds) + Story/Insight + CTA. Keep it real, not polished.
+
+## Regras Gerais de Roteiro
 
 - Frases máximas: 15 palavras por frase
 - Sempre usar "eu" e experiências pessoais fictícias mas críveis
