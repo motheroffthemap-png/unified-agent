@@ -1,6 +1,28 @@
 # ESTRATEGIA DE PLATAFORMA — TikTok vs Instagram vs Blog
 ## Elle · @motheroffthemap · @glowtheory.shop_
-Criado: 2026-05-10 | Status: Referencia permanente de estrategia
+Criado: 2026-05-10 | Atualizado: 2026-05-11 | Status: Referencia permanente de estrategia
+
+---
+
+## FASE ATUAL DO TIKTOK — LEIA PRIMEIRO
+
+**Fase: Pre-lancamento — Construcao de Avatar e Engajamento**
+
+Por enquanto, o TikTok e APENAS para:
+- Aparecer com a AVATAR ELLE (HeyGen)
+- Construir audiencia e engajamento organico
+- Testar formatos, trends e linguagem da plataforma
+- Crescer os seguidores antes de qualquer monetizacao
+
+**NAO e hora de vender NADA ainda no TikTok.**
+
+### Futuro (proximas fases — quando o canal tiver audiencia):
+- Roupas — moda feminina 45+ (ex: Talbots, Chico's, Nordstrom)
+- Maquiagem — beleza e cosmeticos para mulher madura
+- Produtos de beleza — skincare, anti-aging (@glowtheory.shop_)
+
+Regra de ouro: primeiro audiencia, depois monetizacao.
+Nao existe venda sem confianca. Nao existe confianca sem presenca.
 
 ---
 
@@ -27,111 +49,74 @@ LOVABLE (cria/edita com IA) → GitHub (codigo salvo) → VERCEL (site ao vivo a
 
 ### Quando editar direto no GitHub
 
-- Mudanca pequena de texto (ex: $27 para $37)
-- Corrigir palavra ou frase especifica
-- Atualizar copyright (2025 para 2026)
-
-### Vercel: nao precisa entrar nunca
-
-Sempre que voce salva no Lovable ou GitHub, o Vercel publica sozinho automaticamente.
-
-### Acoes Pendentes por Produto
-
-| Produto | Situacao | Onde Editar |
-|---------|----------|-------------|
-| sixty-minutes-to-transform | Reformulacao COMPLETA (coaching 1:1 para The 60-Minute Reset interativo) | Lovable |
-| the-balance-blueprint | So preco: $27 para $37 | GitHub |
-| stoplivinginsurvivalmode | Ajuste tom + remover "47 spots" falso + copyright 2025 para 2026 | Lovable |
-| mother-off-the-map | Trocar "Adriana Carneiro" por "Elle" | GitHub |
-| hold-my-hand-pause | OK por enquanto | — |
-| whenyourmind | OK por enquanto | — |
+- Mudanca pequena de texto (1 linha)
+- Trocar preco ($27 → $37)
+- Corrigir nome (Adriana → Elle)
+- Sem precisar abrir Lovable
 
 ---
 
-## PARTE 2 — O QUE VENDE E O QUE NAO VENDE NO TIKTOK
+## PARTE 2 — TIKTOK: O QUE FUNCIONA E O QUE NAO FUNCIONA
 
-### O Problema Central
+### A psicologia do TikTok
 
-Os produtos digitais ($17 a $147) NAO vendem no TikTok.
-Nao porque sao ruins — mas porque o TikTok nao e plataforma de consideracao.
-E uma plataforma de impulso, entretenimento e descoberta.
-
+O TikTok e plataforma de impulso, entretenimento e descoberta.
 A mulher 45+ no TikTok esta rolando o feed para distrair ou inspirar.
 Ela nao esta em modo de compra de produto digital.
 Ela vai comprar depois — no Instagram, no email — depois de confiar.
 
-### O que VENDE no TikTok
+### O que FUNCIONA agora (Fase Atual)
 
-PRODUTOS FISICOS DE BAIXO TICKET ($10-$50)
-- Skincare, beleza, wellness, suplementos
-- Compra impulsiva: viu, se identificou, comprou em 30 segundos
-- O beneficio e visual, risco percebido e baixo
-- Exemplos: Dr. Melaxin, colageno, serum, vitamina C
-
-AFILIACAO VIA TIKTOK SHOP
-- Voce ganha comissao sem criar produto
-- O produto ja tem prova social, reviews, preco definido
-- Review + demonstracao + link na bio → compra sem sair do app
-- Melhor para: @glowtheory.shop_
+CONTEUDO DE AVATAR ELLE
+- Videos curtos (15-30s) mostrando ELLE em situacoes reais
+- Trends adaptadas para mulher 45+
+- Conteudo emocional: reinvencao, liberdade, autocuidado
+- Linguagem casual, quente, de amiga — nunca formal ou especialista
 
 LEAD MAGNET GRATUITO
 - Oferecer guia gratuito para construir lista de email
+- CTA: "Comenta RESET que te mando o guia gratis"
 - A venda do produto digital acontece depois, por email
-- TikTok gera awareness → email converte
 
-CONTEUDO EMOCIONAL QUE CONSTROI AUTORIDADE
-- Nao vende diretamente — constroi confianca para vender no Instagram/blog
+### O que FUNCIONARA no futuro (quando tiver audiencia)
 
-### O que NAO funciona no TikTok para a Elle
+PRODUTOS FISICOS DE BAIXO TICKET ($10-$50)
+- Roupas moda 45+, maquiagem, skincare, wellness
+- Compra impulsiva: viu, se identificou, comprou em 30 segundos
+- O beneficio e visual, risco percebido e baixo
 
-| Produto | Por que nao funciona no TikTok |
-|---------|--------------------------------|
-| The Balance Blueprint ($37) | Workbook digital — precisa de 3-5 touchpoints antes |
-| The Pause ($27) | Produto de "quando estou pronta" — nao e impulso |
-| The 60-Minute Reset ($97) | Alto valor — exige confianca previa |
-| Silver Mastery Protocol ($147) | Produto de consideracao longa — nunca vende no TikTok |
-| The Focus Prescription ($17) | Unico candidato — mas so com muito contexto |
+AFILIACAO VIA TIKTOK SHOP
+- @glowtheory.shop_ para produtos fisicos de beleza, roupas, maquiagem
+- Voce ganha comissao sem criar produto
+- Review + demonstracao + link na bio → compra sem sair do app
+
+### O que NAO funciona NUNCA no TikTok
+
+PRODUTOS DIGITAIS ($17-$147)
+- A mulher 45+ nao compra workbook ou PDF no TikTok
+- Ela precisa de confianca construida ao longo do tempo
+- Instagram + email sao os canais de conversao de digitais
+- NUNCA faca copy de produto digital direto no TikTok
 
 ---
 
 ## PARTE 3 — LINGUAGEM POR PLATAFORMA
 
-| Elemento | TikTok | Instagram | Blog |
-|----------|--------|-----------|------|
-| Gancho | Provocacao imediata 0-2s: "I was NOT expecting this" | Frase forte na imagem | Titulo SEO |
-| Tom | Conversa informal com amiga, energia | Curado mas pessoal | Reflexivo, autoridade |
-| Comprimento | 15-60 segundos | Caption 3-8 linhas | 600-1500 palavras |
-| CTA | Link na bio / TikTok Shop — agora | Salva isso / link | Baixe o guia |
-| Produto certo | Fisico, afiliado, gratuito | Digital $17-$47 | Digital $37-$147 |
-| Frequencia | 1-3x por dia | 4-7x por semana | 1-2x por semana |
-| Formato ELLE | Avatar + B-roll skincare | Carrossel + reels + stories | Posts longos reflexivos |
+| Plataforma | Tom | Formato | Objetivo |
+|---|---|---|---|
+| TikTok @motheroffthemap | Emocional, breve, viral | Video 15-30s, trends | Engajamento + seguidores |
+| TikTok @glowtheory (futuro) | Casual, sensorial | Review, before/after | Afiliacao fisica |
+| Instagram @motheroffthemap | Inspiracional, educacional | Carrossel, stories | Conversao produto digital |
+| Blog | Aprofundado, SEO | Artigos longos | Descoberta organica |
 
 ---
 
-## PARTE 4 — ESTRATEGIA DE CANAL SEPARADO
+## PARTE 4 — CONTEUDO TIKTOK @motheroffthemap (FASE ATUAL)
 
-### @glowtheory.shop_ (TikTok Shop)
-
-O que VENDE:
-- Afiliacao TikTok Shop: Dr. Melaxin, Talbots, Chicos, Nordstrom
-- Produtos fisicos via afiliacao (comissao 10-30%)
-
-O que NAO vende:
-- Nenhum produto digital da @motheroffthemap (exceto lead magnet gratis ocasional)
-
-Tom:
-- Casual, sensorial, ASMR as vezes
-- "Olha esse resultado", "Tres dias. TRES."
-- Nunca formal, nunca vocabulario de desenvolvimento pessoal
-- ELLE fala como amiga que testou — nunca como especialista
-
-### @motheroffthemap (TikTok)
-
-Objetivo: Construir audiencia → direcionar para Instagram/email
-NAO e: plataforma de vendas de produtos digitais diretamente
-
-Conteudo que funciona:
-- "5 sinais de que voce esta em modo sobrevivencia" (viral, educacional)
+Conteudo que funciona agora:
+- "Eu precisei sair de tudo para me encontrar" (emocional)
+- "3 coisas que voce para de tolerar depois dos 45" (listinha)
+- "Quando voce esta em modo sobrevivencia" (viral, educacional)
 - "O que muda depois dos 45 que ninguem fala" (emocional)
 - Lead magnet: "Comenta RESET que te mando o guia gratis"
 
@@ -139,18 +124,19 @@ Conteudo que NAO funciona:
 - "Compre meu workbook de $37"
 - Copy de produto direto no video
 - Long-form educacional
+- Mencao a preco ou produto digital
 
 ---
 
 ## PARTE 5 — FUNIL COMPLETO POR CANAL
 
-TIKTOK @glowtheory
-→ Review skincare afiliacao → Compra impulso TikTok Shop
-→ Nova seguidora → Instagram @glowtheory
+TIKTOK @motheroffthemap (FASE ATUAL)
+→ Avatar ELLE, conteudo emocional/viral → Engajamento + seguidores
+→ Lead magnet gratuito → Lista email → Email sequence → Produto digital $17-$147
 
-TIKTOK @motheroffthemap
-→ Conteudo emocional/viral → Lead magnet gratuito
-→ Lista email → Email sequence → Produto digital $17-$147
+TIKTOK @glowtheory (FASE FUTURA — quando tiver audiencia)
+→ Review roupas/maquiagem/skincare afiliacao → Compra impulso TikTok Shop
+→ Nova seguidora → Instagram @glowtheory
 
 INSTAGRAM @motheroffthemap
 → Carrossel educacional → "Salva" → Seguidora quente
@@ -162,17 +148,19 @@ BLOG motheroffthemap.com
 
 ---
 
-## MIX DE CONTEUDO SEMANAL @glowtheory.shop_
+## MIX DE CONTEUDO SEMANAL @motheroffthemap TikTok (FASE ATUAL)
 
 | Dia | Tipo | Objetivo |
 |-----|------|----------|
-| Segunda | Review produto afiliado (Dr. Melaxin ou similar) | Venda direta TikTok Shop |
-| Terca | B-roll lifestyle ELLE (manha, autocuidado) | Autoridade + engajamento |
-| Quarta | "Before & After" skincare (produto afiliado) | Conversao afiliado |
-| Quinta | Trend moda/beauty adaptada para 50+ | Alcance + novos seguidores |
-| Sexta | Rotina noturna ELLE (produto + ritual) | Venda + saves |
-| Sabado | Emocional/autoestima | Engajamento, comentarios |
+| Segunda | Video ELLE emocional — reinvencao | Engajamento, comentarios |
+| Terca | Trend adaptada 45+ | Alcance + novos seguidores |
+| Quarta | "3 coisas que..." (listinha educacional) | Saves + compartilhamentos |
+| Quinta | Behind the scenes ELLE (rotina, lifestyle) | Conexao humana |
+| Sexta | Conteudo viral/provocador | Maximo alcance |
+| Sabado | Lead magnet CTA | Captura de email |
 | Domingo | Repost melhor video da semana | — |
+
+Nota: @glowtheory mix de conteudo sera definido quando o canal entrar em fase de monetizacao (roupas, maquiagem, produtos de beleza).
 
 ---
 
@@ -182,10 +170,11 @@ LOVABLE: use para criar e reformular paginas. E o seu editor visual com IA.
 VERCEL: nao precisa entrar — publica automaticamente.
 GITHUB: use para pequenas edicoes de texto e preco.
 
-TikTok @glowtheory: PRODUTOS FISICOS + AFILIACAO. Nunca produtos digitais.
-TikTok @motheroffthemap: CONTEUDO EMOCIONAL + LEAD MAGNET GRATUITO. Nao vende produto pago.
-Instagram + Blog: onde os produtos digitais ($17-$147) sao vendidos.
+TikTok AGORA: APENAS engajamento com avatar ELLE. Zero vendas. Zero pitches.
+TikTok FUTURO @glowtheory: roupas + maquiagem + produtos de beleza (quando tiver audiencia).
+TikTok FUTURO @motheroffthemap: lead magnet gratuito + eventual afiliacao de moda/beleza.
 
----
+Instagram @motheroffthemap: VENDE produtos digitais ($17-$147).
+Blog: SEO + captura de email. Converte via email sequence.
 
-Elle · @motheroffthemap · Claude Cowork · 2026-05-10
+Regra de ouro: TikTok constroi audiencia. Instagram e email convertem.
