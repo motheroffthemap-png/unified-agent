@@ -42,7 +42,7 @@
 - **Idioma:** Inglês (mercado americano)
 - **Avatar:** Elle (Annie no HeyGen)
 - **Público:** Mulheres 30–65, cuidado com pele, autoestima, beleza natural
-- **Produto afiliado top:** Dr. Melaxin (30% comissão, $23.7M GMV)
+- **Afiliação:** Nenhuma ativa ainda — oportunidades identificadas (ver seção 11-A Afiliações)
 
 ### 🎬 Mother Off the Map - Reels *(projeto Manus)*
 - Projeto focado em criação de Reels/TikToks para a marca principal
@@ -115,8 +115,8 @@ natural beauty, morning ritual.
 | 4 | The Balance Blueprint | $37 | `the-balance-blueprint` ✅ | Publicar |
 | 5 | The Reinvention Roadmap | $67 | — | Live |
 | 6 | The Creator Blueprint | $97 | — | Publicar |
-| 7 | Silver Mastery Protocol | $147 | `sixty-minutes-to-transform`? | Criar |
-| 8 | 1:1 Clarity Session | $297 | `sixty-minutes-to-transform` ✅ | Criar |
+| 7 | Silver Mastery Protocol | $147 | *(landing page própria via Lovable)* | Criar |
+| 8 | **The 60-Minute Reset** *(produto interativo — não coaching)* | $67–$97 | `sixty-minutes-to-transform` ✅ | Reformular |
 
 ### Produtos Adicionais Identificados via Vercel (Manus)
 | Projeto Vercel | Produto Provável |
@@ -533,13 +533,31 @@ ROTEIRO (Claude)
    → PUBLICAÇÃO via Manus (Instagram)
 ```
 
-### Afiliação Dr. Melaxin
-| Métrica | Valor |
-|---------|-------|
-| Comissão | **30%** |
-| GMV Total | $23.7M |
-| Via afiliados | $20.69M (82%) |
-| Criadores ativos | 16.600 |
+### 11-A. Afiliações — Status e Roadmap
+
+> ⚠️ **Nenhuma afiliação ativa ainda.** Programas identificados abaixo para cadastro futuro.
+
+#### Marcas Prioritárias (nicho: mulher elegante 45–65)
+
+| Marca | Comissão | Perfil | Plataforma | Status |
+|-------|----------|--------|------------|--------|
+| **Talbots** | ~2–5% | Moda clássica americana, ícone para 50+ | FlexOffers | 🔲 A cadastrar |
+| **Chico's** | ~1–5% | Fundada para mulheres 45+, elegante | FlexOffers / Sovrn | 🔲 A cadastrar |
+| **Nordstrom** | ~1–5% | Luxo acessível, AOV alto | Rakuten Advertising | 🔲 A cadastrar |
+| **Kate Spade** | até 21% | Acessórios premium femininos | Mavely / ShareASale | 🔲 A cadastrar |
+| **SHEIN** | 10–20% | Fast fashion — usar com moderação | App SHEIN (mobile) | 🔲 A avaliar |
+| **Dr. Melaxin** | 30% | Skincare TikTok Shop — $23.7M GMV | TikTok Shop Seller | 🔲 A prospectar |
+
+#### Plataformas de Cadastro
+- **FlexOffers** → Talbots, Chico's, SHEIN + dezenas de outras
+- **ShareASale** → Kate Spade, Desigual e marcas mid-high
+- **Rakuten Advertising** → Nordstrom e marcas de luxo
+- **Mavely** → feito para criadores TikTok
+
+#### Estratégia de Prioridade
+1. **Fase 1:** Talbots + Chico's + Nordstrom (mulher 50+ americana já conhece e confia)
+2. **Fase 2:** Dr. Melaxin via TikTok Shop (canal @glowtheory.shop_)
+3. **SHEIN:** somente "budget finds" — nunca como marca principal da ELLE
 
 ---
 
