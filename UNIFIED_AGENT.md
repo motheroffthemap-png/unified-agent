@@ -1,6 +1,6 @@
 # UNIFIED AGENT — Elle · @motheroffthemap
 > Fonte: Claude (27 sessões) + Manus 1.6 + 17 projetos Vercel + GitHub
-> Última atualização: 2026-05-06
+> Última atualização: 2026-05-10
 > Email: motheroffthemap@gmail.com | GitHub: https://github.com/motheroffthemap-png
 
 ---
@@ -541,4 +541,5 @@ ROTEIRO (Claude)
 
 *Gerado pelo Claude Cowork + dados em tempo real Manus 1.6*
 *Fontes: 27 sessões Claude + 17 projetos Vercel + conectores Manus + pesquisa humanização vídeos IA 2026*
-*Elle · motheroffthemap@gmail.com · Última atualização: 2026-05-07*
+*Stack ativo confirmado: CapCut · Higgsfield · Flow · Lovable · Manus · Claude · Obsidian*
+*Elle · motheroffthemap@gmail.com · Última atualização: 2026-05-10*

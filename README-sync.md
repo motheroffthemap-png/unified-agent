@@ -54,16 +54,22 @@ C:\Users\bruno\OneDrive\Documents\Obsidian Vault\
 
 ---
 
-## Ferramentas Ativas
+## Ferramentas Ativas (stack confirmado 2026-05-10)
 
-HeyGen - Videos com avatar ELLE
-Higgsfield - Efeitos cinematograficos
+Highsfield - B-roll + UGC humanizado (Seedance 2.0 + Veo 3)
 CapCut - Edicao final de video
-ElevenLabs - Voz Nichalia
-Make.com - Automacoes e fluxos
-Vercel - Deploy de landing pages
+Flow - Criacao e edicao de video
+Lovable - Landing pages
+Manus - Agente autonomo (Vercel, GitHub, Instagram)
+Claude - Scripts, roteiros, copy, analise
 Obsidian - Base de conhecimento local
-Manus - Agente autonomo integrado ao Claude
+Vercel - Deploy de landing pages (via Manus)
+GitHub - Versionamento (via Manus)
+Stan Store - Funil $0-$297
+
+## Ferramentas NAO utilizadas
+
+HeyGen, ElevenLabs, Make.com, Grok, Blackbox AI, Gemini, Perplexity, MailerLite
 
 ---
 
@@ -88,9 +94,11 @@ O Claude deve:
 - [x] MASTER_AGENT.md populado
 - [x] Pasta sync-to-unified-agent criada
 - [x] README-sync.md criado
-- [ ] Arquivos Manus uploadados para manus/
-- [ ] Automacoes Make.com configuradas
+- [x] Arquivos Manus uploadados para manus/
+- [x] Stack de ferramentas corrigido (removido Make.com, HeyGen, ElevenLabs)
+- [x] UNIFIED_AGENT.md atualizado com stack ativo e estrategia Reels
+- [x] agent/avatar-ELLE.md atualizado com regras de roteiro Reels
 
 ---
 
-*Ultima atualizacao: 2026-05-10 | Claude Cowork*
+*Ultima atualizacao: 2026-05-10 (sync via Manus + unified-agent-sync skill) | Claude Cowork*
