@@ -505,3 +505,50 @@ unified-agent/
 
 *Arquivo gerado automaticamente pelo Claude Cowork · Elle · @motheroffthemap · 2026-05-06*
 *Para integração com Manus: fazer upload dos arquivos Manus nesta sessão*
+
+
+
+# Cole no FINAL de MASTER_AGENT.md
+
+## 15. Knowledge Graph (Graphify)
+
+O unified-agent mantém um grafo de conhecimento local em `graphify-out/`,
+construído pelo [Graphify](https://pypi.org/project/graphifyy/). Ele substitui
+varreduras de `Read`/`Grep` por consultas estruturadas com 1-2 ordens de
+grandeza menos tokens.
+
+### Comandos essenciais
+
+```bash
+graphify update .                   # rebuild incremental (sem LLM)
+graphify query "<pergunta>"          # BFS no grafo, retorna ~2k tokens
+graphify explain "<símbolo>"         # vizinhos + contexto de um nó
+graphify path "A" "B"                # menor caminho entre dois nós
+graphify claude install              # adiciona hook PreToolUse + seção CLAUDE.md
+graphify hook install                # hooks git: rebuild em post-commit/checkout
+```
+
+### Quando usar
+
+- Pergunta de arquitetura/onde-está → `graphify query`
+- Investigar um símbolo específico → `graphify explain`
+- Entender dependência entre módulos → `graphify path`
+- Mudou código → o post-commit já rebuilda; senão `graphify update .`
+
+### Política para agentes
+
+1. Antes de qualquer `Read`/`Grep` exploratório, consulte o grafo.
+2. Leia arquivo cru só quando o grafo apontar para uma linha exata, ou quando
+   o usuário pedir explicitamente conteúdo de arquivo.
+3. Commits que alteram código disparam rebuild automático via git hook — não
+   é preciso rodar `graphify update` manualmente após commit.
+
+### Arquivos versionados vs ignorados
+
+| Versionado | Ignorado (gerado em runtime) |
+|---|---|
+| `graphify-out/graph.json` | `graphify-out/cache/` |
+| `graphify-out/GRAPH_REPORT.md` | `graphify-out/.graphify_root` |
+| `graphify-out/graph.html` | `graphify-out/.rebuild.lock` |
+| `graphify-out/manifest.json` | |
+

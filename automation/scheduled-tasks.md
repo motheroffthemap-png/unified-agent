@@ -74,3 +74,30 @@ Em vez de tentar acessar TikTok automaticamente:
 - Semana 1–2: Naturalidade básica
 - Semana 3–4: Pausas e ênfase corretas
 - Semana 5–6: 100% humana e convincente
+
+
+
+# Adicionar a automation/scheduled-tasks.md no unified-agent
+
+## graphify-update-diario
+
+**Frequência**: diária às 03:00 (cron `0 3 * * *`)
+
+**Comando**:
+```bash
+cd /caminho/do/repo && graphify update . && \
+  git add graphify-out/graph.json graphify-out/GRAPH_REPORT.md graphify-out/manifest.json && \
+  git diff --cached --quiet || git commit -m "chore(graph): rebuild diário" && \
+  git push origin HEAD
+```
+
+**Por que**:
+- Mantém `graph.json` fresco mesmo quando hooks git falham (push manual,
+  rebase, merge de PR pela web).
+- Custo zero (extração AST/markdown local, sem LLM).
+- Rebuild incremental: ~30s em repos médios.
+
+**Pré-requisito**:
+- `pip3 install graphifyy` na máquina que roda o cron
+- Chave deploy com permissão de push, ou `gh auth` configurado
+
