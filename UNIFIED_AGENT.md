@@ -255,6 +255,35 @@ natural beauty, morning ritual.
 - **Focus:** Invisible mental load, maternal guilt, identity beyond motherhood, presence without perfection.
 - **Format:** Hook (first 3 seconds) + Story/Insight + CTA. Keep it real, not polished.
 
+### 📊 Sprint TikTok — Semanas 1 e 2 (meta: 1.000 views + 1.000 followers)
+
+> **Prioridade máxima até 2026-05-24.** Foco total em crescimento orgânico no TikTok antes de qualquer outra plataforma.
+
+| Métrica | Meta |
+|---------|------|
+| Views por vídeo | 1.000+ |
+| Followers | 1.000 |
+| Frequência | 1 vídeo/dia (mínimo 5x/semana) |
+| Duração ideal | 15–30s (hook nos primeiros 3s) |
+| Horário | 22h BRT (padrão) · 12h para moda/lifestyle |
+
+**Táticas de engajamento:**
+- Responder todos os comentários nas primeiras 2h após publicar
+- Usar 3–5 hashtags nicho (não genéricas) + 1 trending
+- Gancho = afirmação + pausa (nunca pergunta genérica "Are you...")
+- B-roll Higgsfield com movimento real (não loop estático)
+- Duet/Stitch com conteúdo viral do nicho skincare/wellness 50+
+- Fixar o melhor comentário de cada vídeo
+
+**Conteúdo prioritário (semanas 1–2):**
+1. Vídeo de apresentação do canal Elle
+2. Rotina skincare pós-50 (Dr. Melaxin hook)
+3. Erro comum de skincare que envelhece
+4. "I tried this for 3 days" (Dr. Melaxin reveal)
+5. Momento de autocuidado (Sunday Reset B-roll)
+6. Dica rápida de confiança (15s)
+7. Resposta a comentário popular (se houver)
+
 ## 7. TAREFAS AGENDADAS
 
 | ID | Horário | Função |
