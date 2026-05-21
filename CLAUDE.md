@@ -45,8 +45,8 @@ This file provides guidance to Claude Code (claude.ai/code) **and Cowork** when 
 - Blonde wavy shoulder-length hair, soft highlights · Fair skin, blue-green eyes
 - Minimal natural makeup — real skin, not filtered · Delicate gold pendant necklace
 - Environments: white bathroom, home office with afternoon sun, balcony, kitchen
-- Tools: Grok / ImageFX (static) · Gemini Veo 2 (video/podcast avatar)
-- **Never use:** Higgsfield · ElevenLabs
+- Tools: Grok / ImageFX (static) · Higgsfield · HeyGen · Gemini / Veo 2 / Veo 3 (video/podcast avatar) · Google Labs
+- **Never use:** ElevenLabs
 
 ### Phase Rules
 - **Phase 1 (first 15 days of any new channel):** Zero product links, zero ManyChat keywords, every post ends with genuine question
